@@ -1,3 +1,3 @@
 # three-body
 
-test
+用pygame做的小遊戲
